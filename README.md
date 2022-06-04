@@ -1,2 +1,2 @@
-# Cs350Project
+# CS350Project
 Power Measurement with Arduino
